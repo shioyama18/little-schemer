@@ -7,5 +7,5 @@ To run the files, install and run  mit-scheme and load the files
 $ sudo apt-get install mit-scheme  
 $ mit-scheme  
   
-> (load "interp.scm")
+\> (load "interp.scm")
 
